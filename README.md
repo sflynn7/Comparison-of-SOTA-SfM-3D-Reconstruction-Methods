@@ -5,5 +5,6 @@
 
 ## Results
 
-<img width="1506" height="1406" alt="3D Reconstruction highlights" src="https://github.com/user-attachments/assets/c122f6da-6845-4151-9cae-cbfd7e1e371a" />
+<img width="1640" height="1660" alt="figure1" src="https://github.com/user-attachments/assets/f957d3d5-2265-4528-9d93-135117a56b27" />
+
 
